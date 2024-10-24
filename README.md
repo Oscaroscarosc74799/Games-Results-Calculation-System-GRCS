@@ -4,7 +4,7 @@ Games-Results-Calculation-System (GRCS) 是一個專為運動會設計的成績�
 
 ## 功能介紹
 - 根據成績自動生成排名
-
+- 生成檢錄單
 - 簡單易用的圖形界面或命令列操作
 
 ## 使用說明
@@ -24,6 +24,8 @@ Games-Results-Calculation-System (GRCS) 是一個專為運動會設計的成績�
 道次：第?道
 
 成績：直接輸入1000(10秒)、、11000(1分鐘10秒)
+
+備註：成績的部分是 分'秒"毫秒
 
 ## 授權
 ![image](https://github.com/user-attachments/assets/549c0b51-1ac1-42cb-95ac-6d754119d3a2)
