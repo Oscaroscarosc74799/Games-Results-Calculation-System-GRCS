@@ -14,8 +14,8 @@ Games-Results-Calculation-System (GRCS) 是一個專為運動會設計的成績�
 
 可導出成績報表，方便進行存檔或分享。
 
-### 資料格式
-100M輸入的資料應包含以下欄位：
+### 100M（有擇優計算因為保證決賽有 6 人）
+100M輸入的資料包含以下欄位：
 
 姓名：選手的名字
 
@@ -26,6 +26,10 @@ Games-Results-Calculation-System (GRCS) 是一個專為運動會設計的成績�
 成績：直接輸入1000(10秒)、、11000(1分鐘10秒)
 
 備註：成績的部分是 分'秒"毫秒
+
+### 200M、400M、800M、1600M
+
+跟100M一樣，只是沒有擇優計算。
 
 ## 授權
 ![image](https://github.com/user-attachments/assets/549c0b51-1ac1-42cb-95ac-6d754119d3a2)
